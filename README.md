@@ -1,13 +1,13 @@
 ## Welcome to my profile 👋
 
 ### Languages and Runtimes
-[![My Skills](https://skillicons.dev/icons?i=cs,java,js,ts,html,css,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,js,ts,html,css,nodejs,php)](https://skillicons.dev)
 
 ### Frameworks
-[![My Frameworks](https://skillicons.dev/icons?i=dotnet,solidjs,express,tailwind,bootstrap)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=dotnet,solidjs,express,tailwind,bootstrap,laravel)](https://skillicons.dev)
 
 ### Development Tools
-[![My Technologies](https://skillicons.dev/icons?i=mysql,prisma,github,git,figma)](https://skillicons.dev)
+[![My Technologies](https://skillicons.dev/icons?i=mysql,prisma,github,git,figma,)](https://skillicons.dev)
 
 ### IDE's
 [![My IDE's](https://skillicons.dev/icons?i=vscode,visualstudio,idea)](https://skillicons.dev)
