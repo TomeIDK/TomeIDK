@@ -1,7 +1,7 @@
 ## Welcome to my profile 👋
 
 ### Languages and Runtimes
-[![My Skills](https://skillicons.dev/icons?i=cs,java,js,ts,html,css,nodejs,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,js,html,css,nodejs,php)](https://skillicons.dev)
 
 ### Frameworks
 [![My Frameworks](https://skillicons.dev/icons?i=dotnet,solidjs,express,tailwind,bootstrap,laravel)](https://skillicons.dev)
