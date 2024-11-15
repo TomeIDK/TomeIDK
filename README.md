@@ -1,4 +1,4 @@
-## Welcome to my profile 👋
+## hi guys, i'm tome
 
 ### Languages and Runtimes
 [![My Skills](https://skillicons.dev/icons?i=cs,java,js,html,css,nodejs,php)](https://skillicons.dev)
@@ -11,6 +11,11 @@
 
 ### IDE's
 [![My IDE's](https://skillicons.dev/icons?i=vscode,visualstudio,idea)](https://skillicons.dev)
+##
+
+### Follow me on **[X](https://x.com/TomeIDK)** if you like what you see and want to be friends :)
+![](https://github.com/user-attachments/assets/8e3565f9-d02b-4cb0-a6e3-7c4b5f1b8f22)
+
 
 
 
