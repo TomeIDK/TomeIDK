@@ -13,7 +13,7 @@
 [![My IDE's](https://skillicons.dev/icons?i=vscode,visualstudio,idea)](https://skillicons.dev)
 ##
 
-### Follow me on **[X](https://x.com/TomeIDK)** if you like what you see and want to be friends :)
+### Follow me on **[X](https://x.com/TomeIDK)**
 ![](https://github.com/user-attachments/assets/8e3565f9-d02b-4cb0-a6e3-7c4b5f1b8f22)
 
 
