@@ -7,7 +7,7 @@
 [![My Frameworks](https://skillicons.dev/icons?i=dotnet,solidjs,express,tailwind,bootstrap,laravel,react,flask)](https://skillicons.dev)
 
 ### Development Tools
-[![My Technologies](https://skillicons.dev/icons?i=mysql,github,git,figma,sqlite)](https://skillicons.dev)
+[![My Technologies](https://skillicons.dev/icons?i=mysql,github,git,figma,sqlite,docker)](https://skillicons.dev)
 
 ### IDE's
 [![My IDE's](https://skillicons.dev/icons?i=vscode,visualstudio,idea)](https://skillicons.dev)
